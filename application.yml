@@ -3,4 +3,4 @@ message: Config from 0000000000.yml
 logging: # <---- New Entry
   level:
     io:
-      spring: INFO
+      spring: TRACE
