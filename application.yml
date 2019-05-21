@@ -3,4 +3,4 @@ message: Config from aaaa.yml
 logging: # <---- New Entry
   level:
     io:
-      spring: TRACE
+      spring: INFO
