@@ -1,4 +1,4 @@
-message: Config from application.yml
+message: Config from 0000000000.yml
 
 logging: # <---- New Entry
   level:
